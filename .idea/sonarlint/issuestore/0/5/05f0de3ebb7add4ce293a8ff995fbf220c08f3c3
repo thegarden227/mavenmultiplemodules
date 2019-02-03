@@ -1,0 +1,4 @@
+
+`squid:S1854"BRemove this useless assignment to local variable "responseEntity".(¼Ë±Œ8Ö¢Û·†-
+Qsquid:S1481"3Remove this unused "responseEntity" local variable.(¼Ë±Œ8˜½Ú·†-
+ksquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(è¹µîùÿÿÿÿ8¬Ù£·†-
